@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is AABC-B224
-
- Directory of C:\Users\hp\Desktop\Myprojrct
-
-03/24/2021  02:01 AM    <DIR>          .
-03/24/2021  02:01 AM    <DIR>          ..
-03/24/2021  02:01 AM                 0 text1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  74,672,644,096 bytes free
+Hii My name is Bee!!!.
